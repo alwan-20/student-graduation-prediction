@@ -209,9 +209,8 @@ Model telah diimplementasikan menggunakan Streamlit dan dideploy pada Hugging Fa
 </p>
 
 
-```text
 https://huggingface.co/spaces/Cstell/Prediksi-Kelulusan-Mahasiswa
-```
+
 
 ---
 
