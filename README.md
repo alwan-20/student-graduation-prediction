@@ -181,7 +181,9 @@ Contoh:
 Tambahkan gambar hasil confusion matrix pada folder assets.
 
 ```markdown
-![Confusion Matrix](student-graduation-prediction/assets/confusion_matrix.png)
+<p align="center">
+  <img src="student-graduation-prediction/assets/confusion_matrix.png" width="800">
+</p>
 ```
 
 ## Feature Importance
