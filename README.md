@@ -181,18 +181,16 @@ Contoh:
 Tambahkan gambar hasil confusion matrix pada folder assets.
 
 <p align="center">
-  <img src="student-graduation-prediction/assets/confusion_matrix.png" width="800">
+  <img src="student-graduation-prediction/assets/confusion_matrix.png" width="500">
 </p>
 
 ## Feature Importance
 
 Tambahkan gambar feature importance pada folder assets.
 
-```markdown
-![Feature Importance](assets/feature_importance.png)
-```
-
----
+<p align="center">
+  <img src="student-graduation-prediction/assets/feature_importance.png" width="500">
+</p>
 
 # 🚀 Deployment
 
