@@ -180,11 +180,9 @@ Contoh:
 
 Tambahkan gambar hasil confusion matrix pada folder assets.
 
-```markdown
 <p align="center">
   <img src="student-graduation-prediction/assets/confusion_matrix.png" width="800">
 </p>
-```
 
 ## Feature Importance
 
