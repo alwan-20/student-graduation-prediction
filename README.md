@@ -181,7 +181,7 @@ Contoh:
 Tambahkan gambar hasil confusion matrix pada folder assets.
 
 ```markdown
-![Confusion Matrix](assets/confusion_matrix.png)
+32
 ```
 
 ## Feature Importance
