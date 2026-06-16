@@ -182,7 +182,7 @@ Tambahkan gambar hasil confusion matrix pada folder assets.
 
 ```markdown
 <p align="center">
-<img src="images/confusion_matrix.png" width="800">
+  <img src="./assets/confusion_matrix.png" width="800">
 </p>
 ```
 
