@@ -203,12 +203,14 @@ Model telah diimplementasikan menggunakan Streamlit dan dideploy pada Hugging Fa
 * Menampilkan hasil prediksi secara realtime
 * Antarmuka berbasis web
 
-## Link Deployment
+## Deployment
+<p align="center">
+  <img src="student-graduation-prediction/assets/dashboard.png" width="1000">
+</p>
 
-Masukkan URL deployment Hugging Face Anda:
 
 ```text
-https://huggingface.co/spaces/USERNAME/Prediksi-Kelulusan-Mahasiswa
+https://huggingface.co/spaces/Cstell/Prediksi-Kelulusan-Mahasiswa
 ```
 
 ---
