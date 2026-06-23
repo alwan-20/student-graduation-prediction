@@ -1,5 +1,12 @@
 # 🎓 Prediksi Kelulusan Mahasiswa Berdasarkan Data Akademik Menggunakan Algoritma Random Forest
 
+# 👨‍💻 Anggota Kelompok
+
+| Nama                         | NIM        |
+| ---------------------------- | ---------- |
+| M Alwan Fadhil Islamay Pasha | 2330511071 |
+| Mochamad Rizki Ramdani               | 2330511070 |
+
 ## 📌 Deskripsi Proyek
 
 Proyek ini merupakan implementasi Machine Learning untuk memprediksi status kelulusan mahasiswa berdasarkan data akademik. Model yang digunakan adalah Random Forest Classifier dengan pendekatan metodologi CRISP-DM (Cross Industry Standard Process for Data Mining).
