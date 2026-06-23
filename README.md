@@ -214,6 +214,19 @@ https://huggingface.co/spaces/Cstell/Prediksi-Kelulusan-Mahasiswa
 
 ---
 
+# 📓 Notebook Google Colab
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1yOTROUmSDs_BBHUqGU9kIUtd1W-3D8OK)
+
+Notebook digunakan untuk:
+
+- Data Understanding
+- Data Preparation
+- Modeling Random Forest
+- Evaluation
+- Export Model (.pkl)
+- Deployment Preparation
+
 # 🛠️ Teknologi yang Digunakan
 
 * Python
