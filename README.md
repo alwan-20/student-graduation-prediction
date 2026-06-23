@@ -271,16 +271,6 @@ student-graduation-prediction
 └── README.md
 ```
 
----
-
-# 👨‍💻 Anggota Kelompok
-
-| Nama                         | NIM        |
-| ---------------------------- | ---------- |
-| M Alwan Fadhil Islamay Pasha | 2330511071 |
-| Mochamad Rizki Ramdani               | 2330511070 |
-
----
 
 # 📖 Kesimpulan
 
