@@ -185,15 +185,11 @@ Contoh:
 
 ## Confusion Matrix
 
-Tambahkan gambar hasil confusion matrix pada folder assets.
-
 <p align="center">
   <img src="student-graduation-prediction/assets/confusion_matrix.png" width="500">
 </p>
 
 ## Feature Importance
-
-Tambahkan gambar feature importance pada folder assets.
 
 <p align="center">
   <img src="student-graduation-prediction/assets/feature_importance.png" width="500">
